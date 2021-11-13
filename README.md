@@ -41,6 +41,9 @@ For scoring method:
 1. Dividing the values of each “Month Since Last Arrival” & “Total Revenue” variables based on their distribution value
 2. Because of distribution pattern, “Successful Bookings” variable cannot be grouping based on its distribution value, so we classified by several value instead.
 3. Each category divided into 3 groups of score (1-3)
+![alt text](https://github.com/ucoksan/hotel_cust_segmentation/blob/main/data_plot/rfm_ref.png?raw=true)
+4. And RFM clustering as:
+![alt text](https://github.com/ucoksan/hotel_cust_segmentation/blob/main/data_plot/rfm_table.png?raw=true)
 
 ## Analysis Insight
 
