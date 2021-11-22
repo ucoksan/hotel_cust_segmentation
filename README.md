@@ -1,6 +1,6 @@
 # Hotel's Customer Segmentation
 
-EA four(4) star hotel located in Lisbon, Portugal, Europe gathered customer's data during 2015 to 2018 period. The data contains several information related to Hotel's bookings by Customer during the period.
+A four(4) star hotel located in Lisbon, Portugal, Europe gathered customer's data during 2015 to 2018 period. The data contains several information related to Hotel's bookings by Customer during the period.
 
 ## Project Task
 
